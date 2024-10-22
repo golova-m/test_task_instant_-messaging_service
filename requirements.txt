@@ -2,3 +2,7 @@ fastapi
 jinja2
 uvicorn
 python-multipart
+alembic 
+asyncpg 
+sqlalchemy 
+pydantic-settings
